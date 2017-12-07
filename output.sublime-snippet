@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[output(s : String)]]></content>
+	<tabTrigger>output</tabTrigger>
+	<description>- Writes the string s to the Eclipse console. Since the operation has no return value, it shall only be used in ATL imperative blocks.</description>
+</snippet>

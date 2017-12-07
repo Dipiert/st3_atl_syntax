@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[allInstancesFrom(model : String)]]></content>
+	<tabTrigger>allInstancesFrom</tabTrigger>
+	<description>- Returns a set containing the instances of type self that are defined within the model namely identified by model</description>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[oclIsTypeOf(t : oclType)]]></content>
+	<tabTrigger>oclIsTypeOf</tabTrigger>
+	<description>- Returns a boolean value stating whether self is an instance of t.</description>
+</snippet>
