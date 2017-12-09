@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+from
+    a : MM!A (
+        
+    )
+]]>
+</content>
+  <tabTrigger>from</tabTrigger>
+</snippet>

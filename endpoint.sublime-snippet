@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+endpoint]]>
+</content>
+  <tabTrigger>endpoint</tabTrigger>
+  <description>- Implicitly invoked as the last rule of the transformation execution. </description>
+</snippet>
+

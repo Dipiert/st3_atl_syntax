@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[refGetValue(name : String)]]></content>
-	<tabTrigger>refGetValue</tabTrigger>
-	<description>- A reflective operation that returns the value of the self feature identified by name.</description>
+    <content><![CDATA[refGetValue(name : String)]]></content>
+    <tabTrigger>refGetValue</tabTrigger>
+    <description>- A reflective operation that returns the value of the self feature identified by name.</description>
 </snippet>

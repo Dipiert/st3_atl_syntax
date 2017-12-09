@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[
+let var_name : var_type = var_init_exp in exp]]></content>
+    <tabTrigger>let</tabTrigger>
+    <description>- Enables the definition of variables</description>
+</snippet>

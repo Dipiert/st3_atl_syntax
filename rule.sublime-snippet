@@ -1,13 +1,13 @@
 
 <snippet>
-	<content><![CDATA[
+    <content><![CDATA[
 rule a2b {
-	from
-		a : MMA!A ()
-	to
-		ann : MMB!B ()		
+    from
+        a : MMA!A ()
+    to
+        ann : MMB!B ()      
 }
 ]]></content>
-	<tabTrigger>rule</tabTrigger>
-	<description></description>
+    <tabTrigger>rule</tabTrigger>
+    <description></description>
 </snippet>

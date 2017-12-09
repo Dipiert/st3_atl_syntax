@@ -1,0 +1,13 @@
+<snippet>
+  <content><![CDATA[
+unique lazy rule getCross {
+    from
+        i: ecore!EObject
+    to 
+         rel: metamodel!Relationship (
+         )
+ }]]>
+</content>
+  <tabTrigger>unique</tabTrigger>
+</snippet>
+

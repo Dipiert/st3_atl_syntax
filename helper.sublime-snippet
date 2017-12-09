@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[
+helper [context context_type]? def : helper_name(parameters) : return_type = exp;]]></content>
+    <tabTrigger>helper</tabTrigger>
+    <description>- Make it possible to define factorized ATL code that can be called from different points of an ATL transformation</description>
+</snippet>

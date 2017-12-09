@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+do {
+    statements
+}]]>
+</content>
+  <tabTrigger>do</tabTrigger>
+</snippet>

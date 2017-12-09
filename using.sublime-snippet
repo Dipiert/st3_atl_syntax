@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+using {
+    var1 : var_type1 = init_exp1;
+}]]>
+</content>
+  <tabTrigger>using</tabTrigger>
+</snippet>

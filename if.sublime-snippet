@@ -1,10 +1,10 @@
 <snippet>
-	<content><![CDATA[
+    <content><![CDATA[
 if (exp1 and exp2)
 then ...
 else ...
 endif
 ]]></content>
-	<tabTrigger>if</tabTrigger>
-	<description></description>
+    <tabTrigger>if</tabTrigger>
+    <description></description>
 </snippet>

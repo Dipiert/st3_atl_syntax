@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+entrypoint]]>
+</content>
+  <tabTrigger>entrypoint</tabTrigger>
+  <description>- It is implicitly invoked at the beginning of the transformation execution, once the module initialization phase has completed</description>
+</snippet>
+

@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[resolveTemp(var, target_pattern_name)]]></content>
-	<tabTrigger>resolveTemp</tabTrigger>
-	<description>- point from a rule to any of the target model elements that will be generated from a given source model element.</description>
+    <content><![CDATA[resolveTemp(var, target_pattern_name)]]></content>
+    <tabTrigger>resolveTemp</tabTrigger>
+    <description>- point from a rule to any of the target model elements that will be generated from a given source model element.</description>
 </snippet>

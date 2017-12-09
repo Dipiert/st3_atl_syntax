@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[refInvokeOperation(opName : String, args : Sequence)]]></content>
-	<tabTrigger>refInvokeOperation</tabTrigger>
-	<description>- A reflective operation that enables to invoke the self operation named opName with the sequence of parameter contained by args.</description>
+    <content><![CDATA[refInvokeOperation(opName : String, args : Sequence)]]></content>
+    <tabTrigger>refInvokeOperation</tabTrigger>
+    <description>- A reflective operation that enables to invoke the self operation named opName with the sequence of parameter contained by args.</description>
 </snippet>

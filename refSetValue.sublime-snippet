@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[refSetValue(name : String, val : oclAny)]]></content>
-	<tabTrigger>refSetValue</tabTrigger>
-	<description>- A reflective operation that enables to set the self feature identified by name to value val. It returns self.</description>
+    <content><![CDATA[refSetValue(name : String, val : oclAny)]]></content>
+    <tabTrigger>refSetValue</tabTrigger>
+    <description>- A reflective operation that enables to set the self feature identified by name to value val. It returns self.</description>
 </snippet>
