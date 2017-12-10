@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[
+query query_name = exp;]]></content>
+    <tabTrigger>query</tabTrigger>
+    <description>- Accepts a number of source models and produces a single return value of any supported primitive data type</description>
+</snippet>
